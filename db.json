@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "body": "refdfr",
+      "id": 33
+    },
+    {
+      "body": "dde",
+      "id": 34
+    },
+    {
+      "body": "deed",
+      "id": 35
+    }
+  ],
+  "candidates": [
+    {
+      "id": 34,
+      "name": "pepe"
+    },
+    {
+      "id": 1,
+      "name": "pepe22"
+    },
+    {
+      "id": 5,
+      "name": "Juan Lopez"
+    },
+    {
+      "id": 6,
+      "name": "Maria Martinez"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
